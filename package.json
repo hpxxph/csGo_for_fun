@@ -1,0 +1,23 @@
+{
+  "name": "virus-tolik",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron .",
+    "start": "electronmon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^25.3.0",
+    "electron-builder": "^24.4.0",
+    "electronmon": "^2.0.2"
+  },
+  "description": "",
+  "build": {
+    "mac": {
+      "icon": "icon.png"
+    }
+  }
+}

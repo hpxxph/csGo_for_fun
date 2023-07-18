@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "removeComments": true,
+    "target": "ESNext"
+  },
+  "include": ["*.ts"],
+  "exclude": ["node_modules"]
+}
